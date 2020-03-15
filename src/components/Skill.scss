@@ -1,0 +1,20 @@
+
+.skill {
+
+  h5:hover:not(:active) {
+    opacity: .7 !important;
+  }
+
+  h5:active {
+    opacity: .6 !important;
+  }
+
+}
+
+.skill-checkout {
+  transition: .3s ease-in-out transform;
+}
+
+.skill-checkout:not(.enabled) {
+  transform: translateX(20em);
+}

@@ -1,0 +1,72 @@
+.fade-in {
+  animation: fade-in 1.5s ease-out;
+}
+
+.blur {
+  color: transparent;
+  animation: blur 5s ease-out normal forwards;
+}
+
+.delay-1 {
+  animation-delay: 0.1s;
+}
+
+.delay-2 {
+  animation-delay: 0.2s;
+}
+
+.delay-3 {
+  animation-delay: 0.3s;
+}
+
+.delay-4 {
+  animation-delay: 0.4s;
+}
+
+.delay-5 {
+  animation-delay: 0.5s;
+}
+
+.delay-6 {
+  animation-delay: 0.6s;
+}
+
+.delay-7 {
+  animation-delay: 0.7s;
+}
+
+.delay-9 {
+  animation-delay: 0.8s;
+}
+
+.delay-9 {
+  animation-delay: 0.9s;
+}
+
+@keyframes blur {
+  0% {
+    text-shadow: 0 0 70px #fff;
+    opacity: 0;
+  }
+  5% {
+    text-shadow: 0 0 60px #fff;
+  }
+  15% {
+    opacity: 1;
+  }
+  20% {
+    text-shadow: 0 0 0 #fff;
+  }
+  to {
+    text-shadow: 0 0 0 #fffa;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

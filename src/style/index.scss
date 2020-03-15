@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:200,400|Assistant:200&display=swap');
+
+$font-family-sans-serif: 'Kanit', sans-serif;
+$headings-font-family: 'Assistant', sans-serif;
+$headings-font-weight: 200;
+
+$spacer: 1em;
+
+//$primary: #7D61C8;
+//$secondary: #ffffff;
+//$light: #f1f1f1;
+//$dark: #000000;
+
+@import '../../node_modules/bootswatch/dist/darkly/variables';
+@import 'mixins/bootstrap';
+@import '../../node_modules/bootswatch/dist/darkly/bootswatch';
+
+@import "mixins/scrollbar";
+@import "mixins/blur";
+
+html, body {
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5 {
+  cursor: inherit;
+}
+
+h2 {
+  letter-spacing: .25em;
+}
+
+h3 {
+  letter-spacing: 2px;
+}
+
+h4 {
+  font-weight: 600;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, .3) !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.list-group {
+  .list-group-item {
+    padding: 1.25em;
+    background: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .3);
+  }
+}
+
+.cursor-default {
+  cursor: default;
+}
+
+.clickable {
+  cursor: pointer;
+  transition: .2s ease-out;
+  transition-property: color, background, opacity;
+}
+
+.clickable:hover {
+  transition: .05s ease-out;
+  transform: scaleX(1.05);
+}
+
+::selection {
+  background: #AAA;
+}

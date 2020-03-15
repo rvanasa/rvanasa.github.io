@@ -1,0 +1,15 @@
+
+.cold-space-planet {
+  width: 10em;
+  height: 10em;
+  position: relative;
+  top: 15vh;
+  background: rgba(0, 0, 0, .5);
+  border-width: .1em;
+}
+
+.cold-space-planet:hover {
+  border-width: 1em;
+  transform: scale(1.2);
+  opacity: .5;
+}

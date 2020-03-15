@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+
+  .pivot {
+    height: 100vh;
+    overflow: hidden;
+
+    & h1 {
+      font-size: 15vw;
+    }
+  }
+}
