@@ -7,4 +7,4 @@ relatedRole: dfinity-foundation
 summary: Built a full-stack feedback product to support developer experience research and prioritization.
 ---
 
-Contributed full-stack engineering to a feedback board for the developer community. The product used React, Tailwind, Vite, and Next.js and supported user research through surveys and evaluative studies.
+I co-led the development of a feedback board for the DFINITY / ICP developer community. The product used React, Tailwind, Vite, and Next.js and was used to inform development priorities for the developer experience and platform teams.
