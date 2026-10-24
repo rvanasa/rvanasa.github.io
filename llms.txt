@@ -2,7 +2,7 @@
 
 > R&D software engineer building forecasting, visualization, and analysis tools for meteorology and atmospheric science.
 
-Ryan Vandersmith is an R&D software engineer with 10+ years of experience and a deep self-taught background in meteorology. He builds weather forecasting and analysis tools used by photographers, storm chasers, and researchers, including Mesoview (skychaser.mesoview.app), a cloud inversion forecast tool, a mountain wave visualization tool, and a stepwise CAPE/CIN contribution to SounderPy. Professionally, he worked on Caffeine.ai, an AI website builder, and led Motoko programming-language tooling, including a VS Code extension with more than 85,000 installs. He also has experience with cross-chain EVM integrations, developer-experience products, UX research, Rust research software at the University of Colorado Boulder, consulting, and public-sector software.
+Ryan Vandersmith is an R&D software engineer with over 10 years of experience and a deep self-taught background in meteorology. He builds weather forecasting and analysis tools used by photographers, storm chasers, and researchers, including Mesoview (skychaser.mesoview.app), a cloud inversion forecast tool, a mountain wave visualization tool, and a stepwise CAPE/CIN contribution to SounderPy. Professionally, he worked on Caffeine.ai, an AI website builder, and led Motoko programming-language tooling, including a VS Code extension with more than 85,000 installs. He also has experience with cross-chain EVM integrations, developer-experience products, UX research, Rust research software at the University of Colorado Boulder, consulting, and public-sector software.
 
 ## Expertise
 
