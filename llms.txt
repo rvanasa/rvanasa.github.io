@@ -1,0 +1,73 @@
+# Ryan Vandersmith
+
+> R&D software engineer building forecasting, visualization, and analysis tools for meteorology and atmospheric science.
+
+Ryan Vandersmith is an R&D software engineer with 10+ years of experience and a deep self-taught background in meteorology. He builds weather forecasting and analysis tools used by photographers, storm chasers, and researchers, including Mesoview (skychaser.mesoview.app), a cloud inversion forecast tool, a mountain wave visualization tool, and a stepwise CAPE/CIN contribution to SounderPy. Professionally, he worked on Caffeine.ai, an AI website builder, and led Motoko programming-language tooling, including a VS Code extension with more than 85,000 installs. He also has experience with cross-chain EVM integrations, developer-experience products, UX research, Rust research software at the University of Colorado Boulder, consulting, and public-sector software.
+
+## Expertise
+
+weather forecasting and atmospheric analysis tools; MetPy, Siphon, Xarray, NumPy, and Pandas; geospatial and model data visualization; programming languages and developer tools; TypeScript, JavaScript, Rust, and Python; React and Node.js; WebAssembly; full-stack and progressive web applications; EVM integrations; UX research; data analysis; weather forecasting tools; technical mentorship.
+
+## Career highlights
+
+- DFINITY Foundation (July 2022 - April 2026): Led programming-language tooling and cross-chain integrations, contributed to an AI website builder, and led developer experience products.
+- Plexa Technologies LLC (July 2017 - July 2022): Delivered full-stack Progressive Web Apps and custom web products for startups and small businesses.
+- University of Colorado Boulder, College of Engineering & Applied Science (January 2018 - August 2018): Worked on Adapton, an incremental computing system, and built a Rust visualization tool for research on typed incremental computation.
+- Halfbeard Web Design (November 2016 - November 2017): Built custom full-stack web applications with distinctive design styles for local businesses.
+- Douglas County School District (June 2014 - August 2017): Built a bus tracking and route viewer, designed REST APIs, improved CI/CD workflows, and mentored the software intern team across four summers.
+
+## Pages
+
+- [Resume](https://www.ryanvandersmith.com/)
+- [DFINITY Foundation role](https://www.ryanvandersmith.com/roles/dfinity-foundation)
+- [Plexa Technologies LLC role](https://www.ryanvandersmith.com/roles/plexa-technologies)
+- [University of Colorado Boulder, College of Engineering & Applied Science role](https://www.ryanvandersmith.com/roles/cu-boulder-research)
+- [Halfbeard Web Design role](https://www.ryanvandersmith.com/roles/halfbeard-web-design)
+- [Douglas County School District role](https://www.ryanvandersmith.com/roles/douglas-county-school-district)
+- [B.S. Creative Technology & Design](https://www.ryanvandersmith.com/education/cu-boulder)
+- [Boettcher Scholar](https://www.ryanvandersmith.com/education/boettcher-scholar)
+- [CSM PATHS Scholar](https://www.ryanvandersmith.com/education/csm-paths-scholar)
+- [Motoko Language Tooling](https://www.ryanvandersmith.com/projects/motoko-tooling)
+- [Developer Experience Feedback Board](https://www.ryanvandersmith.com/projects/developer-feedback-board)
+- [Fungi Incremental Computation Visualizer](https://www.ryanvandersmith.com/projects/fungi-visualizer)
+- [Full-stack Progressive Web Apps](https://www.ryanvandersmith.com/projects/progressive-web-apps)
+- [Bus Tracking and Route Viewer](https://www.ryanvandersmith.com/projects/bus-tracking-service)
+- [PandasGPT](https://www.ryanvandersmith.com/projects/pandas-gpt)
+- [Mesoview](https://www.ryanvandersmith.com/projects/mesoview)
+- [Stepwise CAPE/CIN](https://www.ryanvandersmith.com/projects/stepwise-cape-cin)
+- [Cloud Inversion Forecast](https://www.ryanvandersmith.com/projects/inversion-forecast)
+- [Mountain Wave Visualization](https://www.ryanvandersmith.com/projects/mountain-wave-visualization)
+- [RimCities](https://www.ryanvandersmith.com/projects/rimcities)
+- [Skychaser](https://www.ryanvandersmith.com/projects/skychaser)
+
+## Markdown sources
+
+- [DFINITY Foundation role source](https://www.ryanvandersmith.com/roles/01-dfinity-foundation.md)
+- [Plexa Technologies LLC role source](https://www.ryanvandersmith.com/roles/02-plexa-technologies.md)
+- [University of Colorado Boulder, College of Engineering & Applied Science role source](https://www.ryanvandersmith.com/roles/03-cu-boulder-research.md)
+- [Halfbeard Web Design role source](https://www.ryanvandersmith.com/roles/04-halfbeard-web-design.md)
+- [Douglas County School District role source](https://www.ryanvandersmith.com/roles/05-douglas-county-school-district.md)
+- [B.S. Creative Technology & Design source](https://www.ryanvandersmith.com/education/01-cu-boulder.md)
+- [Boettcher Scholar source](https://www.ryanvandersmith.com/education/02-boettcher-scholar.md)
+- [CSM PATHS Scholar source](https://www.ryanvandersmith.com/education/03-csm-paths-scholar.md)
+- [Motoko Language Tooling source](https://www.ryanvandersmith.com/projects/01-motoko-tooling.md)
+- [Developer Experience Feedback Board source](https://www.ryanvandersmith.com/projects/03-developer-feedback-board.md)
+- [Fungi Incremental Computation Visualizer source](https://www.ryanvandersmith.com/projects/04-fungi-visualizer.md)
+- [Full-stack Progressive Web Apps source](https://www.ryanvandersmith.com/projects/05-progressive-web-apps.md)
+- [Bus Tracking and Route Viewer source](https://www.ryanvandersmith.com/projects/06-bus-tracking-service.md)
+- [PandasGPT source](https://www.ryanvandersmith.com/projects/07-pandas-gpt.md)
+- [Mesoview source](https://www.ryanvandersmith.com/projects/10-mesoview.md)
+- [Stepwise CAPE/CIN source](https://www.ryanvandersmith.com/projects/11-stepwise-cape-cin.md)
+- [Cloud Inversion Forecast source](https://www.ryanvandersmith.com/projects/12-inversion-forecast.md)
+- [Mountain Wave Visualization source](https://www.ryanvandersmith.com/projects/13-mountain-wave-visualization.md)
+- [RimCities source](https://www.ryanvandersmith.com/projects/14-rimcities.md)
+- [Skychaser source](https://www.ryanvandersmith.com/projects/15-skychaser.md)
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/ryanvandersmith](https://www.linkedin.com/in/ryanvandersmith)
+- GitHub: [github.com/rvanasa](https://github.com/rvanasa)
+- Instagram: [@rvandersmith](https://www.instagram.com/rvandersmith/)
+- X: [@rvandersmith](https://x.com/rvandersmith)
+- Bluesky: [@ryanvandersmith.com](https://bsky.app/profile/ryanvandersmith.com)
+- Location: Amherst, Massachusetts
